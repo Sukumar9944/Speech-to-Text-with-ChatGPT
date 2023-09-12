@@ -39,7 +39,7 @@ To run this project locally, follow these steps:
 
 5. Run the Streamlit app
 
-## Usage:
+## Usage
 
 - Click the "Voice Search" button to start recording.
 
@@ -51,7 +51,7 @@ To run this project locally, follow these steps:
 
 - Experiment with different prompts and interactions
 
-## Dependencies:
+## Dependencies
 
 This project relies on the following libraries and services:
 
@@ -61,7 +61,7 @@ This project relies on the following libraries and services:
 
 Ensure that you have these dependencies installed before running the project.
 
-## License:
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
