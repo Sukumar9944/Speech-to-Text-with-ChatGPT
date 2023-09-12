@@ -39,7 +39,7 @@ To run this project locally, follow these steps:
 
 5. Run the Streamlit app
 
-Usage:
+## Usage:
 
 - Click the "Voice Search" button to start recording.
 
@@ -51,17 +51,17 @@ Usage:
 
 - Experiment with different prompts and interactions
 
-Dependencies:
+## Dependencies:
 
 This project relies on the following libraries and services:
 
-Streamlit: For creating the user-friendly web interface.
-SpeechRecognition: For audio capture and speech-to-text conversion.
-OpenAI GPT-3: For generating text-based responses.
+- Streamlit: For creating the user-friendly web interface.
+- SpeechRecognition: For audio capture and speech-to-text conversion.
+- OpenAI GPT-3: For generating text-based responses.
 
 Ensure that you have these dependencies installed before running the project.
 
-License:
+## License:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
